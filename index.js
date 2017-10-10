@@ -8,6 +8,6 @@ function takeANumber (katzDeliLine, name) {
 //now serving function
 function nowServing (katzDeliLine) {
   if katzDeliLine.length > 0 {
-    
+
   }
 }
