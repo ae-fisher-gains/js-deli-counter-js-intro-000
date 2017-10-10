@@ -6,8 +6,4 @@ function takeANumber (katzDeliLine, name) {
   return (`Welcome, ${name}. You are number ${deliLength} in line.`);
 }
 //now serving function
-function nowServing (katzDeliLine) {
-  if katzDeliLine.length > 0 {
 
-  }
-}
